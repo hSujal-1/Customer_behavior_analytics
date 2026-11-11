@@ -138,8 +138,8 @@ GROUP BY subscription_status;
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/hSujal-1/customer_behavior_analytics.git
-cd customer_behavior_analytics
+git clone https://github.com/hSujal-1/Customer_behavior_analytics.git
+cd Customer_behavior_analytics
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2-binary jupyter
