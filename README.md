@@ -106,6 +106,8 @@ GROUP BY subscription_status;
 
 ![Customer Behavior Dashboard](dashboard.png)
 
+[Download the Power BI file](Customer_Behavior-Dashboard.pbix)
+
 ---
 
 ## Results
