@@ -20,7 +20,7 @@ This project analyzes the shopping behavior of **3,900 customers** to understand
 
 ## Dataset
 
-- **File:** [`data/customer_shopping_behavior.csv`](data/customer_shopping_behavior.csv)
+- **File:** [`customer_shopping_behavior.csv`](customer_shopping_behavior.csv)
 - **Size:** 3,900 rows x 18 columns
 - **Missing values:** 37 in `Review Rating` (filled with the median); no duplicate rows
 
@@ -104,7 +104,7 @@ GROUP BY subscription_status;
 
 **Slicers:** subscription status, gender, category, shipping type
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
